@@ -1,0 +1,2 @@
+# MChem-
+Here is the code used during my MChem project. There is code for ORCA input file generation, a script to collate data from ORCA output files and another script which identifies functionalities within a specificed molecule and then identifies molecules containing the same groups (and amount of groups) from a large list of smiles - here, this large smile list was generated using the MAYGEN isomer generator (https://github.com/MehmetAzizYirik/MAYGEN).
